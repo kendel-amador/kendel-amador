@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
 </div>
-<img src="https://https://imgur.com/MArchLO.png">
+<img src="https://imgur.com/MArchLO.png">
 <br>
 
 ## ABOUT ME
