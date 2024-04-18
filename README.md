@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel Amador</a> 👋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vecteezy.com%2Fvectores-gratis%2Fbanner-tecnol%25C3%25B3gico&psig=AOvVaw1O44E71vaEg3M9JZAo6I1a&ust=1713498145686000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCLmZTsyoUDFQAAAAAdAAAAABAE">
+<img src="">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
