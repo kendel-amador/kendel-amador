@@ -24,7 +24,7 @@
 
 <p>I led the development of a website for Dalopcan Soluciones, a company dedicated to services of medical audiology based in Limón, Costa Rica. I collaborated closely with the team of Dalopcan Solutions to understand your needs and turn them into a web platform effective.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </div>
 
@@ -42,6 +42,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products.</p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </div>                                                             
 </table>  
 </div>
