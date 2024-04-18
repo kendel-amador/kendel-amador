@@ -10,8 +10,11 @@
 
 ## ABOUT ME
 
-- ✏️ Software Developer
-- 📗 Costa Rica University
+<p>Final year student of the Business Informatics degree with demonstrated experience in
+extracurricular projects. Passionate about technology and committed to learning.
+continuous, combining academic knowledge with practical skills acquired in environments
+professionals. I have solid teamwork skills, effective communication and ability
+to adapt to new challenges. </p>
 <br>
 
 ## BEST PROJECTS
