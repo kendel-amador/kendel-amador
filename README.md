@@ -4,8 +4,10 @@
 <img src="https://imgur.com/MArchLO.png">
 <br>
 
-<a href="https://linkedin.com/in/kendel-amador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kendel-amador" height="30" width="40" /></a>
-<a href="https://instagram.com/kendel_amador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kendel_amador" height="30" width="40" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=)](https://kendel.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kendel-amador/)
+
+
 
 ## ABOUT ME
 
