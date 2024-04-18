@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
 </div>
-<img src="https://imgur.com/AT3Nuda.png">
+<img src="https://imgur.com/dcBpePn.png">
 <br>
 
 ## BEST PROJECTS
@@ -10,7 +10,7 @@
 <td width="50%">
 <h3 align="center">Solutions Dalopcan</h3>
 <div align="center">
-<a href="https://dalopcan.netlify.app/" target="_blank"><img src="https://imgur.com/TkHqkSl.jpeg" width="400" alt="Solutions Dalopcan"></a>
+<a href="https://dalopcan.netlify.app/" target="_blank"><img src="https://imgur.com/NascLPr.jpeg" width="400" alt="Solutions Dalopcan"></a>
 <p>
 <a href="" target="_blank">
 <img src="">
