@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
   <img src="https://imgur.com/AT3Nuda.png">
-  ## Best Projects*
+ BEST PROJECTS
 <table>
 <tr>
 <td width="50%">
