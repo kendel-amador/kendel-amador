@@ -4,15 +4,15 @@
 <img src="https://imgur.com/AT3Nuda.png">
 <br>
 
-## BEST *PROJECTS*
+## BEST PROJECTS
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Solutions Dalopcan</h3>
 <div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://dalopcan.netlify.app/" target="_blank"><img src="https://imgur.com/TkHqkSl.jpeg" width="400" alt="Solutions Dalopcan"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="" target="_blank">
 <img src="">
 </a>
 <a href="">
@@ -28,7 +28,7 @@
                <br>
 <h3 align="center">Hotweels</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="" width="400" alt="Hoteweels"></a>
 <br>
 <p>
 <a href="" target="_blank">
