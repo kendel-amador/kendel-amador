@@ -22,7 +22,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p>I led the development of a website for Dalopcan Soluciones, a company dedicated to services of medical audiology based in Limón, Costa Rica. I collaborated closely with the team of Dalopcan Solutions to understand your needs and turn them into a web platform effective.</p>
+<p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a user-friendly interface, a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and "purchase" products. </p>
 </div>
                                                                                       
 </td>
