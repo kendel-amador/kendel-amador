@@ -50,7 +50,7 @@ to adapt to new challenges. </p>
 
 </p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-26C6DA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </div>                                                             
 </table>  
