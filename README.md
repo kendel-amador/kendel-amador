@@ -32,15 +32,11 @@
 <h3 align="center">HOTWEELS</h3>
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://imgur.com/sAPkXAM.jpeg" width="400" alt="Hoteweels"></a>
-<br>
-<p>
-<a href="" target="_blank">
-<img src="">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="">
-</a>
-</p>
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 </p>Development of an e-commerce project with inventory management and access management to user roles.</p>
 </div>                                                             
 </table>  
