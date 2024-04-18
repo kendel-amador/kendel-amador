@@ -25,9 +25,9 @@ to adapt to new challenges. </p>
 <div align="center">
 <a href="https://dalopcan.netlify.app/" target="_blank"><img src="https://imgur.com/NascLPr.jpeg" width="400" alt="Solutions Dalopcan"></a>
 
-![React](https://img.shields.io/badge/react-%2326C6DA.svg?style=for-the-badge&logo=react&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%2326C6DA.svg?style=for-the-badge&logo=mui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%2326C6DA.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2326C6DA.svg?style=for-the-badge&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-%2326C6DA.svg?style=for-the-badge&logo=mui&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%2326C6DA.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <p>I led the development of a website for Dalopcan Soluciones, a company dedicated to services of medical audiology based in Limón, Costa Rica. I collaborated closely with the team of Dalopcan Solutions to understand your needs and turn them into a web platform effective.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
@@ -44,9 +44,9 @@ to adapt to new challenges. </p>
 <div align="center">                                       
 <a href="" target="_blank"><img src="https://imgur.com/sAPkXAM.jpeg" width="400" alt="Hoteweels"></a>
 
-![Angular](https://img.shields.io/badge/angular-%2326C6DA.svg?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2326C6DA.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%2326C6DA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%2326C6DA.svg?style=for-the-badge&logo=angular&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2326C6DA.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%2326C6DA.svg?style=for-the-badge&logo=bootstrap&logoColor=black)
 
 </p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
