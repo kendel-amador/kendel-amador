@@ -2,7 +2,6 @@
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
 </div>
 <img src="https://imgur.com/MArchLO.png">
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=)](https://kendel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kendel-amador/)
