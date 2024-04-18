@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
 </div>
+
 <img src="https://imgur.com/AT3Nuda.png">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
