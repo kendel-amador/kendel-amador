@@ -4,7 +4,6 @@
 <img src="https://imgur.com/MArchLO.png">
 <br>
 
-[![Potfolio](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)]
 
 
 ## ABOUT ME
