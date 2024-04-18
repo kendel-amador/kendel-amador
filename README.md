@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
   <img src="https://imgur.com/AT3Nuda.png">
- BEST PROJECTS
+</div>
+## BEST *PROJECTS*
 <table>
 <tr>
 <td width="50%">
@@ -38,8 +39,6 @@
 </p>Development of an e-commerce project with inventory management and access management to user roles.</p>
 </div>                                                             
 </table>  
-</div>
-
 
 
 
