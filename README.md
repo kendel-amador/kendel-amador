@@ -1,18 +1,19 @@
 <div align="center">
   <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
+  <img src="https://imgur.com/AT3Nuda.png">
   ## Best Projects*
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Solutions Dalopcan</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="">
+<img src="">
 </a>
 </p>
 <p>I led the development of a website for Dalopcan Soluciones, a company dedicated to services of medical audiology based in Limón, Costa Rica. I collaborated closely with the team of Dalopcan Solutions to understand your needs and turn them into a web platform effective.</p>
@@ -24,14 +25,14 @@
                <br>
 <h3 align="center">Hotweels</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="" target="_blank">
+<img src="">
 </a>
 <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<img src="">
 </a>
 </p>
 </p>Development of an e-commerce project with inventory management and access management to user roles.</p>
@@ -40,7 +41,7 @@
 </div>
 
 
-<img src="https://imgur.com/AT3Nuda.png">
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
