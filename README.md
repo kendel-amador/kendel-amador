@@ -37,7 +37,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a user-friendly interface, a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products. </p>
+</p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products.</p>
 </div>                                                             
 </table>  
 </div>
