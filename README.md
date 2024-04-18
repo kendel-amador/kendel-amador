@@ -31,7 +31,7 @@ to adapt to new challenges. </p>
 
 <p>I led the development of a website for Dalopcan Soluciones, a company dedicated to services of medical audiology based in Limón, Costa Rica. I collaborated closely with the team of Dalopcan Solutions to understand your needs and turn them into a web platform effective.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CODE-26C6DA?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-26C6DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
 
@@ -50,7 +50,7 @@ to adapt to new challenges. </p>
 
 </p>As part of a UCR course project, I developed an e-commerce platform with inventory management and user role-based access control. It featured a shopping cart, and robust inventory tracking. Different user roles had distinct privileges: administrators managed inventory and regular users could browse and purchase products.</p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CODE-26C6DA?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-26C6DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>                                                             
 </table>  
