@@ -1,4 +1,7 @@
-Hey, I'm [Kendel](https://kendel.netlify.app/) <span style="color:#26C6DA;">Amador</span> 👋
+<div align="center">
+  <h1 align="center">Hey, I'm <a href="https://kendel.netlify.app/">Kendel <span style="color: #26C6DA;">Amador</span></a> 👋</h1>
+</div>
+
 
 <img src="https://imgur.com/AT3Nuda.png">
 
