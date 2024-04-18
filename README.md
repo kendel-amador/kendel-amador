@@ -4,11 +4,17 @@
 <img src="https://imgur.com/dcBpePn.png">
 <br>
 
+## ABOUT ME
+
+- ✏️ Software Developer
+- 📗 Costa Rica University
+<br>
+
 ## BEST PROJECTS
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Solutions Dalopcan</h3>
+<h3 align="center">SOLUTIONS DALOPCAN</h3>
 <div align="center">
 <a href="https://dalopcan.netlify.app/" target="_blank"><img src="https://imgur.com/NascLPr.jpeg" width="400" alt="Solutions Dalopcan"></a>
 
@@ -23,7 +29,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Hotweels</h3>
+<h3 align="center">HOTWEELS</h3>
 <div align="center">                                       
 <a href="" target="_blank"><img src="" width="400" alt="Hoteweels"></a>
 <br>
